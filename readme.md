@@ -1,6 +1,6 @@
 # learn From Chai Aur Code
 
- ##Install
+ ## Install
 
  this is our installation instruction
 
